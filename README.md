@@ -1,2 +1,2 @@
-# arduino-rgb-cathode
-Code to inter-fade a cathode rgb led for a cathode
+# Servo-Code
+Basic arduino code for a servo motor
